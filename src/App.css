@@ -16,6 +16,7 @@
   height: 300px;
   width: 220px;
   border-radius: 7px;
+  border: 1px solid gray;
   object-fit: cover;
   position: center;
 }
